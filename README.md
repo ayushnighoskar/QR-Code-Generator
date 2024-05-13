@@ -12,8 +12,8 @@ This is a simple QR code generator website created using HTML, CSS, and JavaScri
 
 ## Features:
 
--Generate QR codes for URL's.
--Customize QR code size.
+- Generate QR codes for URL's.
+- Customize QR code size.
 
 
 ## Live Demo:
@@ -22,13 +22,14 @@ This is a simple QR code generator website created using HTML, CSS, and JavaScri
 
 ## How to Use:
 
--Open the live demo link in your web browser.
--Select the URL you want to convert to QR code.
--Enter the content in the provided input field.
--Optionally, adjust the size of the QR code using the available options.
--Click the "Generate QR Code" button to generate the QR code.
--Right-click on the generated QR code to download it as an image.
+- Open the live demo link in your web browser.
+- Select the URL you want to convert to QR code.
+- Enter the content in the provided input field.
+- Optionally, adjust the size of the QR code using the available options.
+- Click the "Generate QR Code" button to generate the QR code.
+- Right-click on the generated QR code to download it as an image.
 
 ## Screenshot:
 
-![image](https://github.com/ayushnighoskar/QR-Code-Generator/assets/48729682/324c7504-32a7-454a-8b5d-ed9a176d643f)
+![image](https://github.com/ayushnighoskar/QR-Code-Generator/assets/48729682/1bfba7ac-6ce3-4364-839b-07eb2595feef)
+
